@@ -282,7 +282,6 @@ footer p {
         display: none;
     }
     .suggestion {
-        border: solid 1px red;
         height: 500px;
         width: 100%;
     }
